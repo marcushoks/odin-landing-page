@@ -89,7 +89,7 @@ footer {
 
 .card__image {
   border: 2px solid #3882f6;
-  border-radius: 10%;
+  border-radius: 1em;
 }
 
 .card__text {
@@ -116,7 +116,7 @@ footer {
 .call-to-action__button {
   background-color: #3882f6;
   color: #f9faf8;
-  border-radius: 10%;
+  border-radius: 1em;
 }
 
 .body__call-to-action > .call-to-action__button {
