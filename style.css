@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: Roboto, Helvetica, sans-serif;
+  margin: 0;
+}
+
+header,
+footer,
+.hero {
+  background-color: #1f2937;
+}
+
+.header__logo,
+.hero__heading {
+  color: #f9faf8;
+  font-weight: bold;
+}
+
+.header__logo {
+  font-size: 24px;
+}
+
+.header__links {
+  list-style: none;
+}
+
+.header__links a {
+  text-decoration: none;
+}
+
+.header__links a,
+.hero__description,
+.call-to-action__description,
+footer {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hero__heading {
+  font-size: 48px;
+}
+
+.body {
+  background-color: #f9faf8;
+}
+
+.information__heading {
+  font-size: 36px;
+  font-weight: bold;
+  color: #1f2937;
+}
+
+.card__image {
+  border: 2px solid #3882f6;
+  border-radius: 10%;
+}
+
+.card__text {
+  color: grey;
+}
+
+.body__quote {
+  background-color: #e5e7eb;
+}
+
+.body__quote > blockquote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.body__call-to-action,
+.call-to-action__button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  border-radius: 10%;
+}
+
+.body__call-to-action > .call-to-action__button {
+  border: 1px solid #f9faf8;
+}
+
+.call-to-action__heading {
+  font-weight: bold;
+  font-size: 1.2em;
+}
