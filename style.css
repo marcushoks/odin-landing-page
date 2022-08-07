@@ -71,11 +71,16 @@ footer {
   height: 300px;
 }
 
+.call-to-action__link,
+.call-to-action__button {
+  width: 150px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
 .call-to-action__button {
   border: 0;
   padding: 0.8em 1em;
-  width: 150px;
-  font-weight: bold;
 }
 
 .body {
@@ -142,7 +147,7 @@ footer {
   border-radius: 1em;
 }
 
-.body__call-to-action > .call-to-action__button {
+.body__call-to-action .call-to-action__button {
   border: 1px solid #f9faf8;
 }
 
