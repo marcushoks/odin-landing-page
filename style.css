@@ -98,6 +98,7 @@ footer {
 
 .card__text {
   color: grey;
+  text-align: center;
 }
 
 .body__quote {
