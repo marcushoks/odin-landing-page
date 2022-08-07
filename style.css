@@ -83,6 +83,10 @@ footer {
   padding: 0.8em 1em;
 }
 
+.call-to-action__button:hover {
+  opacity: 0.5;
+}
+
 .body {
   background-color: #f9faf8;
 }
