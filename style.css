@@ -56,8 +56,11 @@ footer {
   padding: 5em 1em;
 }
 
-.hero__text > * {
-  margin-bottom: 10px;
+.hero__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1em;
 }
 
 .hero__heading {
@@ -70,7 +73,8 @@ footer {
 
 .call-to-action__button {
   border: 0;
-  padding: 0.5em 1em;
+  padding: 0.8em 1em;
+  width: 150px;
 }
 
 .body {
