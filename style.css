@@ -124,9 +124,11 @@ footer {
 }
 
 .body__call-to-action {
-  width: 90vh;
+  width: 90%;
   display: flex;
   justify-content: space-around;
+  margin: 5em auto;
+  padding: 2em;
 }
 
 .call-to-action__heading {
