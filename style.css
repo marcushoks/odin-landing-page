@@ -101,6 +101,12 @@ footer {
   flex-wrap: wrap;
 }
 
+.information__card {
+  display: flex;
+  flex: 0;
+  flex-direction: column;
+}
+
 .card__image {
   border: 4px solid #3882f6;
   border-radius: 1em;
