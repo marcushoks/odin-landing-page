@@ -107,6 +107,11 @@ footer {
   color: #1f2937;
 }
 
+.quote__author {
+  text-align: end;
+  font-weight: bold;
+}
+
 .body__call-to-action,
 .call-to-action__button {
   background-color: #3882f6;
