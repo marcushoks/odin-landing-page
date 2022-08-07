@@ -78,6 +78,13 @@ footer {
   font-weight: bold;
   color: #1f2937;
   text-align: center;
+  margin: 1em;
+}
+
+.information__card-container {
+  display: flex;
+  justify-content: center;
+  gap: 2em;
 }
 
 .card__image {
