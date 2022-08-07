@@ -64,6 +64,10 @@ footer {
   font-size: 48px;
 }
 
+.hero__image {
+  height: 300px;
+}
+
 .call-to-action__button {
   border: 0;
   padding: 0.5em 1em;
