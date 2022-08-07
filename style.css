@@ -49,8 +49,24 @@ footer {
   color: #e5e7eb;
 }
 
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  padding: 5em 1em;
+}
+
+.hero__text > * {
+  margin-bottom: 10px;
+}
+
 .hero__heading {
   font-size: 48px;
+}
+
+.call-to-action__button {
+  border: 0;
+  padding: 0.5em 1em;
 }
 
 .body {
