@@ -1,5 +1,7 @@
 # odin-landing-page
 
+This is just a project from following The Odin Project's foundations course. Please do feel free to contact me if I have unintentionally misused restricted material(s).
+
 ## Credits
 
 _All images used are royalty free and are credited in this section._
