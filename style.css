@@ -97,7 +97,7 @@ footer {
 }
 
 .card__image {
-  border: 2px solid #3882f6;
+  border: 4px solid #3882f6;
   border-radius: 1em;
   height: 500px;
 }
